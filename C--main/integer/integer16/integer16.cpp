@@ -15,7 +15,7 @@ int main() {
 
       int yangi_son = birlik*10 + onlik * 100 + yuzlik*1;
         cout << "Raqamlar teskarisi: " << yangi_son << endl;
-  
+  aaa
 
     return 0;
 }

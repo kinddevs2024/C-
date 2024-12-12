@@ -15,7 +15,6 @@ int main() {
 
       int yangi_son = birlik*100 + onlik * 10 + yuzlik*1;
         cout << "Raqamlar teskarisi: " << yangi_son << endl;
-  
 
     } else {
         cout << "Kiritilgan son uch xonali emas!" << endl;
